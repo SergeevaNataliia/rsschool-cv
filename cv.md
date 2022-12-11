@@ -1,3 +1,3 @@
-Nataliia Sergeeva
+# Nataliia Sergeeva
 
-Junior Frontend Developer
+## Junior Frontend Developer
